@@ -1,14 +1,17 @@
 name = "SDL2_mixer_jll"
 uuid = "7e88e5ca-120e-58e7-9660-b2187fd466c0"
-version = "2.0.4+1"
+version = "2.0.4+2"
 
 [deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 SDL2_jll = "ab825dc5-c88e-5901-9575-1e5e20358fcf"
 FLAC_jll = "1d38b3a6-207b-531b-80e8-c83f48dafa73"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 mpg123_jll = "3205ef68-7822-558b-ad0d-1b4740f12437"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 libvorbis_jll = "f27f6e37-5d2b-51aa-960f-b287f2bc3b7a"
 
 [compat]
-julia = "1.0"
+JLLWrappers = "1.2.0"
+julia = "1.6"
