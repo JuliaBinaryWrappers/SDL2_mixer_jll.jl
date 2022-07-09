@@ -2,13 +2,10 @@
 export libsdl2_mixer
 
 using SDL2_jll
-using libvorbis_jll
-using FLAC_jll
-using mpg123_jll
 JLLWrappers.@generate_wrapper_header("SDL2_mixer")
 JLLWrappers.@declare_library_product(libsdl2_mixer, "SDL2_mixer.dll")
 function __init__()
-    JLLWrappers.@generate_init_header(SDL2_jll, libvorbis_jll, FLAC_jll, mpg123_jll)
+    JLLWrappers.@generate_init_header(SDL2_jll)
     JLLWrappers.@init_library_product(
         libsdl2_mixer,
         "bin\\SDL2_mixer.dll",
