@@ -1,6 +1,6 @@
 name = "SDL2_mixer_jll"
 uuid = "7e88e5ca-120e-58e7-9660-b2187fd466c0"
-version = "2.6.0+0"
+version = "2.6.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
