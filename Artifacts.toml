@@ -1,143 +1,160 @@
 [[SDL2_mixer]]
 arch = "aarch64"
-git-tree-sha1 = "b06fc2cc3d09aeea0f7028562dd9b68b90f9518e"
+git-tree-sha1 = "4eee065e78ab6f00bbf410e6e9e9f30ffe269054"
 os = "macos"
 
     [[SDL2_mixer.download]]
-    sha256 = "6e096a98e7524264d436ded890ef765196d318e077998a18627b2cc0b75c5e41"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.6.2+0/SDL2_mixer.v2.6.2.aarch64-apple-darwin.tar.gz"
+    sha256 = "299fdc2df9c16df0c45022fa00c45a24980ae04e0268440838d6c984a4e0be88"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.8.1+0/SDL2_mixer.v2.8.1.aarch64-apple-darwin.tar.gz"
 [[SDL2_mixer]]
 arch = "aarch64"
-git-tree-sha1 = "72467df407a1e1717a1aa899770d931f50ee1ee9"
+git-tree-sha1 = "34579ffe49def1a851be5005823a9a3ed881687f"
 libc = "glibc"
 os = "linux"
 
     [[SDL2_mixer.download]]
-    sha256 = "47d5f8a98c9c1eeeea09e73456c350186d40704ca5bd791833937493417ab9c4"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.6.2+0/SDL2_mixer.v2.6.2.aarch64-linux-gnu.tar.gz"
+    sha256 = "ea0a58c5fac64131a536c79c39ee8ed89bc87cafcf26d0d5d10fe7bf2fa04fcf"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.8.1+0/SDL2_mixer.v2.8.1.aarch64-linux-gnu.tar.gz"
 [[SDL2_mixer]]
 arch = "aarch64"
-git-tree-sha1 = "f061ead36d367f0f4314a4ce481b5c35e6fff208"
+git-tree-sha1 = "8c7dd741bff5ccd34b05a9e34784177d01d7a89e"
 libc = "musl"
 os = "linux"
 
     [[SDL2_mixer.download]]
-    sha256 = "1f09497b8863e871ada3984ded54820780ea46190d8063d9f00837efa65e4f72"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.6.2+0/SDL2_mixer.v2.6.2.aarch64-linux-musl.tar.gz"
+    sha256 = "5bab9c91ebc07d161ad6910d92c9e526661b7748d431f175ae42b05755ebcf00"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.8.1+0/SDL2_mixer.v2.8.1.aarch64-linux-musl.tar.gz"
 [[SDL2_mixer]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "7dc2c686e6cc6671f4c3356900d501e2559d8257"
-libc = "glibc"
-os = "linux"
-
-    [[SDL2_mixer.download]]
-    sha256 = "10323d5b445d7e11756bb534b0fc2524499a68a81db6a741efdc87cb8e2c1ad8"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.6.2+0/SDL2_mixer.v2.6.2.armv6l-linux-gnueabihf.tar.gz"
-[[SDL2_mixer]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "caae491b716ff87ebe8c173074844ffce038256f"
-libc = "musl"
-os = "linux"
-
-    [[SDL2_mixer.download]]
-    sha256 = "99733268d56b32af34cde632334a52cd0e0b41effb34ba0b2d08f88cd123c4bf"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.6.2+0/SDL2_mixer.v2.6.2.armv6l-linux-musleabihf.tar.gz"
-[[SDL2_mixer]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "871f8f1a566bb332ebdf405111a31d311f414a1b"
-libc = "glibc"
-os = "linux"
-
-    [[SDL2_mixer.download]]
-    sha256 = "18b0709b476b4330c214fbe2473d8135f0228944c2db204c96e4cfffb693d6ca"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.6.2+0/SDL2_mixer.v2.6.2.armv7l-linux-gnueabihf.tar.gz"
-[[SDL2_mixer]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "42b8e0157f2bec2123e873144c753a90c045f3fb"
-libc = "musl"
-os = "linux"
-
-    [[SDL2_mixer.download]]
-    sha256 = "b9b080ef9a2377c6dfeb779272f57b5035a48b8cc13c41087507b35d6d5434bc"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.6.2+0/SDL2_mixer.v2.6.2.armv7l-linux-musleabihf.tar.gz"
-[[SDL2_mixer]]
-arch = "i686"
-git-tree-sha1 = "7e9f0d4fc5d109b4a1e50941723f0f9195108d4d"
-libc = "glibc"
-os = "linux"
-
-    [[SDL2_mixer.download]]
-    sha256 = "c9a19d4127978a7d9378b0eff8b9129bb8426e0a528a3304a3dad20c2cea7d18"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.6.2+0/SDL2_mixer.v2.6.2.i686-linux-gnu.tar.gz"
-[[SDL2_mixer]]
-arch = "i686"
-git-tree-sha1 = "8c2c54c08da8e1b0d4074f89689105325a24dd79"
-libc = "musl"
-os = "linux"
-
-    [[SDL2_mixer.download]]
-    sha256 = "c38b2803ea5ec0a92c91bfd46e7796ed6ade3188b884206e198a00c06e5af875"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.6.2+0/SDL2_mixer.v2.6.2.i686-linux-musl.tar.gz"
-[[SDL2_mixer]]
-arch = "i686"
-git-tree-sha1 = "e8ceae7a2a56bd8b3fd8a24e9c07583f5a495026"
-os = "windows"
-
-    [[SDL2_mixer.download]]
-    sha256 = "71ad9776738f70c030cd4016ac88d48f3fc2c9860ad78849bde4b13e6d7a58d6"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.6.2+0/SDL2_mixer.v2.6.2.i686-w64-mingw32.tar.gz"
-[[SDL2_mixer]]
-arch = "powerpc64le"
-git-tree-sha1 = "76865ecf59fc36ae4efbd2b5d1ef605600fae5d5"
-libc = "glibc"
-os = "linux"
-
-    [[SDL2_mixer.download]]
-    sha256 = "31b2722c610bc3ff2f23d59257efd06ad0cb844f7c07b9e7e8cbef1dc0173d81"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.6.2+0/SDL2_mixer.v2.6.2.powerpc64le-linux-gnu.tar.gz"
-[[SDL2_mixer]]
-arch = "x86_64"
-git-tree-sha1 = "e833a607b75c190bf5253021c976a59532c339dd"
-os = "macos"
-
-    [[SDL2_mixer.download]]
-    sha256 = "1309d2e13c06a61b0dd2f56d86ad5588971d4827b8ec64c62a0fd38bc14069e7"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.6.2+0/SDL2_mixer.v2.6.2.x86_64-apple-darwin.tar.gz"
-[[SDL2_mixer]]
-arch = "x86_64"
-git-tree-sha1 = "a461bee0484404b2f8d79dd69b6ab2b716048c45"
-libc = "glibc"
-os = "linux"
-
-    [[SDL2_mixer.download]]
-    sha256 = "72879e680db57950b266128d0efcfeb3310248c6b7031ef94c47c566692ac06f"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.6.2+0/SDL2_mixer.v2.6.2.x86_64-linux-gnu.tar.gz"
-[[SDL2_mixer]]
-arch = "x86_64"
-git-tree-sha1 = "45db0acbf15c6d733b009fb7d3d5864a58cb38e1"
-libc = "musl"
-os = "linux"
-
-    [[SDL2_mixer.download]]
-    sha256 = "d77f1614fcc8660386881b87ba24df1283010e1bc027f44a7692f70cbf62ec9b"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.6.2+0/SDL2_mixer.v2.6.2.x86_64-linux-musl.tar.gz"
-[[SDL2_mixer]]
-arch = "x86_64"
-git-tree-sha1 = "7817f59d48afda844601828e4e6e11e11d0c4e3f"
+arch = "aarch64"
+git-tree-sha1 = "273c733359498b5c3e79178e29862c855906544f"
 os = "freebsd"
 
     [[SDL2_mixer.download]]
-    sha256 = "f03ca25d8804760f11d9fcf4bf3570c40a78bd6be4612f19f6ebc7c6aeb282b9"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.6.2+0/SDL2_mixer.v2.6.2.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "4e46ad0c5ba3eb28a8a1f9c79a64a66af1a9e50793f99fd6b217bb03d9cca744"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.8.1+0/SDL2_mixer.v2.8.1.aarch64-unknown-freebsd.tar.gz"
 [[SDL2_mixer]]
-arch = "x86_64"
-git-tree-sha1 = "ce37592e79ca72567a917f501ebf1928f9fd36f7"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "1aaee60aa73569c12ffe282f5681d3ac89eb115d"
+libc = "glibc"
+os = "linux"
+
+    [[SDL2_mixer.download]]
+    sha256 = "65b4a738dfd0346fc981654ac955ff923140b0474a78f70fd38fd84aedcfa890"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.8.1+0/SDL2_mixer.v2.8.1.armv6l-linux-gnueabihf.tar.gz"
+[[SDL2_mixer]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "177a85fce2a77cf021ec4a018711cfa19ef48318"
+libc = "musl"
+os = "linux"
+
+    [[SDL2_mixer.download]]
+    sha256 = "f94d5897d2a3124c2d30ef6d56fd1a73f45f14030029cda1302ecaf247fae206"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.8.1+0/SDL2_mixer.v2.8.1.armv6l-linux-musleabihf.tar.gz"
+[[SDL2_mixer]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "40661769aa5c8bac1e4ed05f0ea624a494ec4e60"
+libc = "glibc"
+os = "linux"
+
+    [[SDL2_mixer.download]]
+    sha256 = "464a1e9026fa6fec21ec502cc113a65a84ba611d99c6efb4d8fdeb481ab895bb"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.8.1+0/SDL2_mixer.v2.8.1.armv7l-linux-gnueabihf.tar.gz"
+[[SDL2_mixer]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6e9be4ce4f67c003167d76eb41c46fc9d224596c"
+libc = "musl"
+os = "linux"
+
+    [[SDL2_mixer.download]]
+    sha256 = "414fc5fe69895f4d0570a891e814b5d073e6d73f10b57c58d9731ecaa5ee7edb"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.8.1+0/SDL2_mixer.v2.8.1.armv7l-linux-musleabihf.tar.gz"
+[[SDL2_mixer]]
+arch = "i686"
+git-tree-sha1 = "c066039adebf554bfa53b7f57891192dd379d9b9"
+libc = "glibc"
+os = "linux"
+
+    [[SDL2_mixer.download]]
+    sha256 = "06989d3d6b49c77dd3e2255d684b2bf6d3df374479dc7bd56bdc8ef266676106"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.8.1+0/SDL2_mixer.v2.8.1.i686-linux-gnu.tar.gz"
+[[SDL2_mixer]]
+arch = "i686"
+git-tree-sha1 = "6e610d1301dab2878d4495262492082d4fa2d9fa"
+libc = "musl"
+os = "linux"
+
+    [[SDL2_mixer.download]]
+    sha256 = "2d3c0886667e0c752a2de5785d2338f3c4d04a8ac3c2a5589418d8a73c2fe242"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.8.1+0/SDL2_mixer.v2.8.1.i686-linux-musl.tar.gz"
+[[SDL2_mixer]]
+arch = "i686"
+git-tree-sha1 = "7f23404c18e80644c87ff6dc09532c6e9f5d66b2"
 os = "windows"
 
     [[SDL2_mixer.download]]
-    sha256 = "c68de43d3f514ed1245af1fb72ff479d7232f34ce3f0244c51c20ef4c2258b6d"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.6.2+0/SDL2_mixer.v2.6.2.x86_64-w64-mingw32.tar.gz"
+    sha256 = "d2dbe2539d558d64d2ef88f5e64972c0fbf463a003231d012b8de972e33421b3"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.8.1+0/SDL2_mixer.v2.8.1.i686-w64-mingw32.tar.gz"
+[[SDL2_mixer]]
+arch = "powerpc64le"
+git-tree-sha1 = "0eb9dec2a028851c3e67ab968460564b6e4dc88c"
+libc = "glibc"
+os = "linux"
+
+    [[SDL2_mixer.download]]
+    sha256 = "fd24c82789939f0f8a82ab46948277cb7efe943a9e9a731867abcdccca8c20e4"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.8.1+0/SDL2_mixer.v2.8.1.powerpc64le-linux-gnu.tar.gz"
+[[SDL2_mixer]]
+arch = "riscv64"
+git-tree-sha1 = "3e383f44eff00fdc28df5397186600466d35e78c"
+libc = "glibc"
+os = "linux"
+
+    [[SDL2_mixer.download]]
+    sha256 = "d3e60e811e8015ee15ecf9bfa11e821bad0b0422c6f15247b6ecb43d33367c84"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.8.1+0/SDL2_mixer.v2.8.1.riscv64-linux-gnu.tar.gz"
+[[SDL2_mixer]]
+arch = "x86_64"
+git-tree-sha1 = "7630d368e5169528eb403441d53080485ad75be5"
+os = "macos"
+
+    [[SDL2_mixer.download]]
+    sha256 = "149e3dbb74bfffbbe53e2b67aacf1d7fe51c22ce40feea9e79c49dae226a399b"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.8.1+0/SDL2_mixer.v2.8.1.x86_64-apple-darwin.tar.gz"
+[[SDL2_mixer]]
+arch = "x86_64"
+git-tree-sha1 = "41b5180f8dcb232b8a0a6d9213452344f45c8601"
+libc = "glibc"
+os = "linux"
+
+    [[SDL2_mixer.download]]
+    sha256 = "940889d193068d383c6952bf9930dd78f546cb59bb925491b6b868328abffaa5"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.8.1+0/SDL2_mixer.v2.8.1.x86_64-linux-gnu.tar.gz"
+[[SDL2_mixer]]
+arch = "x86_64"
+git-tree-sha1 = "3a5c6280aabc46c89a3351aa90e972958ba4a744"
+libc = "musl"
+os = "linux"
+
+    [[SDL2_mixer.download]]
+    sha256 = "2af6b2bbab5e330e5c433587af487a556de09453ba8081410fbb352572e55e46"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.8.1+0/SDL2_mixer.v2.8.1.x86_64-linux-musl.tar.gz"
+[[SDL2_mixer]]
+arch = "x86_64"
+git-tree-sha1 = "3b371e34b22a2347b23d595c4fa38c69ab100d6a"
+os = "freebsd"
+
+    [[SDL2_mixer.download]]
+    sha256 = "7f8040f8df97732eeff37d417035782b4bfe59e10fd4ce0d963d34ec147b5ffa"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.8.1+0/SDL2_mixer.v2.8.1.x86_64-unknown-freebsd.tar.gz"
+[[SDL2_mixer]]
+arch = "x86_64"
+git-tree-sha1 = "cb4db86ae06fcc40a6cd15a61a83b49206a57e25"
+os = "windows"
+
+    [[SDL2_mixer.download]]
+    sha256 = "1032a74c1c51d4d9d4651b82830a3d4aa3030df50591656076c7b6b1c2e6c2bd"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_mixer_jll.jl/releases/download/SDL2_mixer-v2.8.1+0/SDL2_mixer.v2.8.1.x86_64-w64-mingw32.tar.gz"
